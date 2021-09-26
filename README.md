@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Franco Del Patto
+- 👋 Hi, I’m Franco Del Patto, a Human/Spanish/Argentinean/Economist/Developer/Techer with an unquenchable thirst for learning!
 - 👀 I’m interested in Data Science, Machine Learning, Economics and Behavioral Economics (just to name a few of my interests!)
 - 🌱 I’m currently learning Data Science tools, and enriching my programming skills
 - 💞️ I’m looking to collaborate on any project that might teach me something new, or open new doors!
